@@ -56,7 +56,7 @@ export function Footer() {
 
         <div className="mt-12 border-t pt-8">
           <p className="text-center text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Fresh Fruit Alliances. All rights reserved.
+            &copy; {new Date().getFullYear()} Green Gold Ventures. All rights reserved.
           </p>
         </div>
       </Container>
