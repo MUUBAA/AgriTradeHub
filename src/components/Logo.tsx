@@ -18,7 +18,7 @@ export function Logo({ className }: { className?: string }) {
           fill="hsl(var(--primary))"
         />
       </svg>
-      <span className="text-xl">FreshFruit</span>
+      <span className="text-xl">Green Gold Ventures</span>
     </div>
   );
 }

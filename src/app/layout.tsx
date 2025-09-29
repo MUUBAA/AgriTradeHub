@@ -4,13 +4,13 @@ import { Toaster } from "@/components/ui/toaster";
 import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
-  title: 'Fresh Fruit Alliances | From Farm to Table, Freshness Guaranteed',
-  description: 'Fresh Fruit Alliances is a leading supplier of high-quality, sustainably grown fruits. We connect dedicated farmers with global markets, ensuring freshness and quality every step of the way.',
+  title: 'Green Gold Ventures | From Farm to Table, Freshness Guaranteed',
+  description: 'Green Gold Ventures is a leading supplier of high-quality, sustainably grown fruits. We connect dedicated farmers with global markets, ensuring freshness and quality every step of the way.',
   openGraph: {
-    title: 'Fresh Fruit Alliances | From Farm to Table, Freshness Guaranteed',
+    title: 'Green Gold Ventures | From Farm to Table, Freshness Guaranteed',
     description: 'Discover our network of passionate farmers and our commitment to delivering the freshest fruits worldwide. Sustainable, reliable, and always fresh.',
-    url: 'https://fresh-fruit-alliances.com',
-    siteName: 'Fresh Fruit Alliances',
+    url: 'green-gold-ventures.com',
+    siteName: 'Green Gold Ventures',
     images: [
       {
         url: 'https://picsum.photos/seed/og-image/1200/630',
