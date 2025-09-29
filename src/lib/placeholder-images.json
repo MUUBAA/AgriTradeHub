@@ -1,3 +1,106 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Lush green orchard with sunlight",
+      "imageUrl": "https://images.unsplash.com/photo-1588011059136-21df81e200dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxvcmNoYXJkJTIwc3VufGVufDB8fHx8MTc1OTE0MjEyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "orchard sun"
+    },
+    {
+      "id": "about-us-image",
+      "description": "Close-up of various fresh fruits",
+      "imageUrl": "https://images.unsplash.com/photo-1444459094717-a39f1e3e0903?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmcmVzaCUyMGZydWl0fGVufDB8fHx8MTc1OTA5MTA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh fruit"
+    },
+    {
+      "id": "network-map",
+      "description": "Map of India with pins",
+      "imageUrl": "https://images.unsplash.com/photo-1546833998-07256bcc76ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxJbmRpYSUyMG1hcHxlbnwwfHx8fDE3NTkxNDIxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "India map"
+    },
+    {
+      "id": "client-logo-1",
+      "description": "Client logo 1",
+      "imageUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NTkwODM4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-2",
+      "description": "Client logo 2",
+      "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJhbmQlMjBsb2dvfGVufDB8fHx8MTc1OTA1MTY5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brand logo"
+    },
+    {
+      "id": "client-logo-3",
+      "description": "Client logo 3",
+      "imageUrl": "https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NTkwODM4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-4",
+      "description": "Client logo 4",
+      "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJhbmQlMjBsb2dvfGVufDB8fHx8MTc1OTA1MTY5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brand logo"
+    },
+    {
+      "id": "client-logo-5",
+      "description": "Client logo 5",
+      "imageUrl": "https://images.unsplash.com/photo-1505156868547-9b49f4df4e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVjaCUyMGxvZ298ZW58MHx8fHwxNzU5MDkzMTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "client-logo-6",
+      "description": "Client logo 6",
+      "imageUrl": "https://images.unsplash.com/photo-1697295774731-f29bd48664ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwbG9nb3xlbnwwfHx8fDE3NTkwODUwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "startup logo"
+    },
+    {
+      "id": "blog-image-1",
+      "description": "Farmer holding a basket of apples",
+      "imageUrl": "https://images.unsplash.com/photo-1645727237975-951857315716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmYXJtZXIlMjBhcHBsZXxlbnwwfHx8fDE3NTkxNDIxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farmer apple"
+    },
+    {
+      "id": "blog-image-2",
+      "description": "Rows of strawberry plants",
+      "imageUrl": "https://images.unsplash.com/photo-1587393855524-087f83d95bc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHJhd2JlcnJ5JTIwZmllbGR8ZW58MHx8fHwxNzU5MTQyMTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "strawberry field"
+    },
+    {
+      "id": "blog-image-3",
+      "description": "A truck loaded with fruit crates",
+      "imageUrl": "https://images.unsplash.com/photo-1664138304216-9a56ac43ed67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJ1aXQlMjBsb2dpc3RpY3N8ZW58MHx8fHwxNzU5MTQyMTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit logistics"
+    },
+    {
+      "id": "quality-cert-1",
+      "description": "FSSAI certification logo",
+      "imageUrl": "https://images.unsplash.com/photo-1745970649913-2edb9dca4f74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZXJ0aWZpY2F0aW9uJTIwbG9nb3xlbnwwfHx8fDE3NTkwNzM0Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "certification logo"
+    },
+    {
+      "id": "quality-cert-2",
+      "description": "ISO 9001 certification logo",
+      "imageUrl": "https://images.unsplash.com/photo-1618200469989-152fab5d41a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxJU08lMjBsb2dvfGVufDB8fHx8MTc1OTA5NDU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ISO logo"
+    },
+    {
+      "id": "quality-cert-3",
+      "description": "Global G.A.P. certification logo",
+      "imageUrl": "https://images.unsplash.com/photo-1705904506592-d8a0d5392c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxxdWFsaXR5JTIwbG9nb3xlbnwwfHx8fDE3NTkxNDIxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quality logo"
+    },
+    {
+      "id": "quality-cert-4",
+      "description": "Organic certification logo",
+      "imageUrl": "https://images.unsplash.com/photo-1660071155921-7204712d7d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvcmdhbmljJTIwbG9nb3xlbnwwfHx8fDE3NTkwODEzNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "organic logo"
+    },
+    {
+      "id": "contact-background",
+      "description": "Orchard photo for contact section background",
+      "imageUrl": "https://images.unsplash.com/photo-1554014049-410432169415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxvcmNoYXJkJTIwZmllbGR8ZW58MHx8fHwxNzU5MTQyMTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "orchard field"
+    }
+  ]
 }

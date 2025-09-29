@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Journey of an Apple: From Our Farm to Your Table",
+    "excerpt": "Discover the meticulous care and sustainable practices we employ to bring you the freshest, most delicious apples.",
+    "image": "blog-image-1",
+    "slug": "journey-of-an-apple"
+  },
+  {
+    "id": 2,
+    "title": "Sustainable Farming: Our Commitment to the Planet",
+    "excerpt": "Learn how our innovative, eco-friendly farming techniques are paving the way for a healthier planet and better produce.",
+    "image": "blog-image-2",
+    "slug": "sustainable-farming"
+  },
+  {
+    "id": 3,
+    "title": "Behind the Scenes of Our Global Distribution Network",
+    "excerpt": "A look into the complex logistics and cutting-edge technology that ensures our fruit arrives fresh, no matter the destination.",
+    "image": "blog-image-3",
+    "slug": "global-distribution"
+  }
+]
